@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+body{
+    font-family: 'Montserrat',sans-serif;
+}
+
+.header{
+    width: 992px;
+    height: 666px;
+    background: linear-gradient(104.6deg, #000548 24.21%, #151C74 88.91%);
+    border-radius: 15px;
+}
+.header-block{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-block h1{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+.header-block h2{
+    font-family: 'Appetite',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 37px;
+    line-height: 37px;
+    color: #FFFFFF;
+}
+.man{
+    padding:30px 18px 30px 18px;
+}
